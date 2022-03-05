@@ -11,15 +11,15 @@ class LuciferMoringstar(object):
 
 🧑 My Creator : {dev_name}
 
-📦 My Source : [Click Here](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+📦 My Source : [Click Here](തരൂല 😁)
 
-📺 My Tutorial : [Ckick Here](https://youtu.be/FCU_XJmyG_U)
+📺 My Tutorial : [Ckick Here](കാണിച്ചു തരൂല 😁)
 
-🗃️ My Library : [Pyrogram](https://youtu.be/Af055Eozk9s)
+🗃️ My Library : [Pyrogram](എന്തിനാ 😁)
 
-🖇️ My Language : [Python3](https://youtu.be/Af055Eozk9s)
+🖇️ My Language : [Python3](മലയാളം 😁)
 
-🗃️ My Database : [Mongodb](https://youtu.be/gBLTsH-IXr0)
+🗃️ My Database : [Mongodb](heee😁)
 
 🗳️ My Server : [Heroku](https://youtu.be/xcZD55td6Vw)
 
@@ -51,7 +51,7 @@ Couldn't Find {query}?  Please Click Your Request Movie Name"""
 📆 Year : {year}
 🌟 Rating {rating}/10
 🗨️ Genres {genres}"""
-
+"എന്തൊക്കെ വിശേഷം"
 
     GET_MOVIE_2 = """
 📽️ Requested Movie : {query}
