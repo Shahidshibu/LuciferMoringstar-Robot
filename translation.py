@@ -50,11 +50,12 @@ Couldn't Find {query}?  Please Click Your Request Movie Name"""
 🎬 Title : [{title}]({url})
 📆 Year : {year}
 🌟 Rating {rating}/10
-🗨️ Genres {genres}"""
+🗨️ Genres {genres}
+perfect ok"""
 
 
     GET_MOVIE_2 = """
 📽️ Requested Movie : {query}
 👤 Requested By : {mention}
 
-© **{chat}**"""
+© **{movie boss}**"""
