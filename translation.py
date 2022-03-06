@@ -49,4 +49,6 @@ heyy how are you"""
 📽️ Requested Movie : {query}
 👤 Requested By : {mention}
 
-© **{Movie Boss}**"""
+© **{Movie Boss}**
+
+appo join cheytholu"""
