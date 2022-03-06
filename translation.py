@@ -11,7 +11,7 @@ class LuciferMoringstar(object):
 
 🧑 My Creator : {dev_name}
 
-📦 My Source : [Click Here](https://github.com/bossstory/LuciferMoringstar-Robot)
+📦 My Source : [Click Here](തരുല)
 
 📺 My Youtube : [Ckick Here](https://www.youtube.com/channel/UCohk_mpuW8SpgZMyOzRdKcA)
 
@@ -43,7 +43,7 @@ Couldn't Find {query}?  Please Click Your Request Movie Name"""
 📆 Year : {year}
 🌟 Rating {rating}/10
 🗨️ Genres {genres}
-time : {time}"""
+heyy how are you"""
 
     GET_MOVIE_2 = """
 📽️ Requested Movie : {query}
